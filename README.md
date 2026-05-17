@@ -203,15 +203,15 @@ flutter run -d windows
 ## 7. MINH HỌA TỪNG MÀN HÌNH
 
 ### Màn hình 1: Trang chủ (Home Page)
-![Home Page](images/01_home_page.png)
+![Home Page](images/01_home_page.jpg)
 *Màn hình chính hiển thị danh sách ghi chú, thanh tìm kiếm, bộ lọc, và thông tin sinh viên*
 
 ### Màn hình 2: Tạo/Sửa ghi chú (Note Editor)
-![Note Editor](images/02_note_editor.png)
+![Note Editor](images/02_note_editor.jpg)
 *Màn hình tạo hoặc chỉnh sửa ghi chú với các trường: tiêu đề, thẻ, ghim, khóa, nội dung*
 
 ### Màn hình 3: Chế độ tối (Dark Mode)
-![Dark Mode](images/03_dark_mode.png)
+![Dark Mode](images/03_dark_mode.jpg)
 *Giao diện ứng dụng trong chế độ tối*
 
 ---
